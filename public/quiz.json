@@ -1,0 +1,92 @@
+[
+  {
+    "question": "How do you feel when you hear your alarm in the morning?",
+    "options": [
+      { "text": "I wake up before it!", "weight": 0 },
+      { "text": "Ugh, 5 more minutes...", "weight": 2 },
+      { "text": "I snooze it 3 times.", "weight": 3 },
+      { "text": "I want to throw it across the room.", "weight": 5 }
+    ]
+  },
+  {
+    "question": "Your to-do list is growing. You...",
+    "options": [
+      { "text": "Tackle tasks one by one calmly.", "weight": 0 },
+      { "text": "Feel a bit uneasy but continue.", "weight": 2 },
+      { "text": "Get anxious and avoid it.", "weight": 3 },
+      { "text": "Panic and shut down completely.", "weight": 5 }
+    ]
+  },
+  {
+    "question": "How often do you laugh in a day?",
+    "options": [
+      { "text": "All the time!", "weight": 0 },
+      { "text": "A few times, maybe.", "weight": 2 },
+      { "text": "Rarely, unless forced.", "weight": 3 },
+      { "text": "I don’t remember the last time.", "weight": 5 }
+    ]
+  },
+  {
+    "question": "How’s your sleep lately?",
+    "options": [
+      { "text": "I sleep like a baby.", "weight": 0 },
+      { "text": "Sometimes I wake up at night.", "weight": 2 },
+      { "text": "Takes time to fall asleep.", "weight": 3 },
+      { "text": "My mind won’t let me sleep.", "weight": 5 }
+    ]
+  },
+  {
+    "question": "You’re stuck in traffic. Your reaction?",
+    "options": [
+      { "text": "I listen to music and chill.", "weight": 0 },
+      { "text": "A little annoyed.", "weight": 2 },
+      { "text": "I curse under my breath.", "weight": 3 },
+      { "text": "Full meltdown mode.", "weight": 5 }
+    ]
+  },
+  {
+    "question": "How do you react when plans change suddenly?",
+    "options": [
+      { "text": "I adjust easily.", "weight": 0 },
+      { "text": "Slightly bothered, but it's okay.", "weight": 2 },
+      { "text": "It throws off my whole mood.", "weight": 3 },
+      { "text": "I feel completely out of control.", "weight": 5 }
+    ]
+  },
+  {
+    "question": "Your friend cancels plans. You feel...",
+    "options": [
+      { "text": "No worries, I’ll chill!", "weight": 0 },
+      { "text": "A little disappointed.", "weight": 2 },
+      { "text": "Why always me?", "weight": 3 },
+      { "text": "Completely rejected and upset.", "weight": 5 }
+    ]
+  },
+  {
+    "question": "You made a small mistake at work. You...",
+    "options": [
+      { "text": "Fix it and move on.", "weight": 0 },
+      { "text": "Feel guilty for a while.", "weight": 2 },
+      { "text": "Overthink it all day.", "weight": 3 },
+      { "text": "Feel like a complete failure.", "weight": 5 }
+    ]
+  },
+  {
+    "question": "When someone interrupts you, you...",
+    "options": [
+      { "text": "Pause and listen.", "weight": 0 },
+      { "text": "Get slightly annoyed.", "weight": 2 },
+      { "text": "Get frustrated quickly.", "weight": 3 },
+      { "text": "Feel disrespected and hurt.", "weight": 5 }
+    ]
+  },
+  {
+    "question": "How do you usually spend your weekends?",
+    "options": [
+      { "text": "Relaxing or doing hobbies.", "weight": 0 },
+      { "text": "Some work, some rest.", "weight": 2 },
+      { "text": "Catching up on everything I couldn’t do in the week.", "weight": 3 },
+      { "text": "Can’t even enjoy them, I feel exhausted.", "weight": 5 }
+    ]
+  }
+]

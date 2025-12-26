@@ -1,0 +1,10 @@
+[
+  {
+    "question": "How are you feeling today?",
+    "options": ["Happy", "Sad", "Angry", "Calm"]
+  },
+  {
+    "question": "Did you sleep well last night?",
+    "options": ["Yes", "No", "Not sure"]
+  }
+]

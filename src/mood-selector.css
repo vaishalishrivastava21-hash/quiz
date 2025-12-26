@@ -1,0 +1,41 @@
+
+body{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+h1,h2{
+    padding: 3vh;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #5f5f57;
+}
+div.mood-container{
+    height: 80vh;
+    width:120vh;
+    backdrop-filter: blur(7px);
+	background-color: rgba(253, 253, 250, 0.15);
+	border-radius: 10px;
+	box-shadow: 0 0 12px rgba(255, 255, 255, 0.5), /* Inner glow (bright) */
+    0 0 12px rgba(255, 255, 255, 0.7); /* Outer glow (softer) */
+}
+div.emoji-container{
+    display: flex;
+    align-items: center;
+    justify-content: center ; 
+    gap: 3vh;  
+}
+img{
+    width: 50px !important ;
+    height: auto;
+    max-height: 50px !important;
+    box-shadow: 2px;
+}
+button {
+    border-color: transparent;
+    background-color: transparent !important;
+}
+button :hover{
+transform: scale(1.18);
+filter: drop-shadow(3px 1.5px 3px #696968);
+
+}
